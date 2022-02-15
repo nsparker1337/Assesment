@@ -18,7 +18,7 @@
 ## Configuration:
 -----------------
 
-1. Default PhpMyAdmin Credential : username:'root' password:'' Database:'LoginSystem'.
+1. Default PhpMyAdmin Credential : username:'root' password:' ' Database:'LoginSystem'.
 
 ## Todo:
 --------
